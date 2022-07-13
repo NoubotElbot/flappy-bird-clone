@@ -1,6 +1,7 @@
 {
   "name": "phaser-webpack-boilerplate",
   "version": "1.0.0",
+  "homepage": "htto://noubotelbot.github.io./flappy-bird",
   "description": "",
   "main": "index.js",
   "scripts": {
